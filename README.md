@@ -1,28 +1,6 @@
-<div align="center">
-    <img src="./public/logo.png" alt="SoraFlows">
-</div>
 
 # SoraFlows
 SoraFlows is a browser interface for OpenAI Sora,can generate, edit, share text/picture-to-video simply. 
-
-Try Demo here 👉 [SoraFlows](https://www.soraflows.com)
-
-One-Click to get a well-designed cross-platform Sora web UI
-
-
-
-<div align="center">
-<a href="https://www.producthunt.com/posts/soraflows?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-soraflows" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=440901&theme=light" alt="SoraFlows - Open&#0045;source&#0032;AI&#0032;video&#0032;web&#0032;creation&#0032;with&#0032;Sora&#0032;Model | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<p>Follow SoraFlows on Product Hunt. </p>
-
-</div>
-
-
-<h4 align="center">
-    <p>
-        <b>English</b>        
-    <p>
-</h4>
 
 [![Website](https://img.shields.io/badge/Website-Demo-20B2AA.svg)](https://www.soraflows.com)
 
@@ -92,14 +70,6 @@ pnpm dev
 ```
 4.Open http://localhost with your browser to see it.
 ![SoraFlows Demo](./public/demo1.png)
-
-## Communication groups
-
-Welcome to join our discord group
-
-[![Join Discord Group](./public/discord_icon.png)](https://discord.gg/VgbsfjWkfd)
-
-
 
 
 ## Sora
